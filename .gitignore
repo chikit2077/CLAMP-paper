@@ -2,7 +2,11 @@
 __pycache__/
 *.py[cod]
 *$py.class
-
+upload_model/
+loop_dataset/
+reference/Homo_sapiens.GRCh38.dna.toplevel.fa
+data/A673.bigWig
+result/
 # C extensions
 *.so
 
