@@ -81,11 +81,11 @@ git clone https://github.com/chikit2077/CLAMP-paper.git
 cd CLAMP-paper
 
 # Create and activate conda environment
-mamba create -n clamp python=3.12.2
-mamba activate clamp
+conda create -n clamp python=3.12.2
+conda activate clamp
 
 # Install dependencies
-mamba install -c conda-forge -c bioconda conda-forge::transformers=4.46.2 \
+conda install -c conda-forge -c bioconda conda-forge::transformers=4.46.2 \
     pyfaidx=0.8.1.3 peft=0.13.2 jupyter biopython=1.84 pandas=2.2.2 \
     scikit-learn=1.5.2 accelerate=1.1.1 matplotlib-base=3.9.2 \
     seaborn=0.13.2 pybigwig=0.3.22 h5py=3.12.1
