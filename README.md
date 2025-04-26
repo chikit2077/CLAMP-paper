@@ -65,6 +65,16 @@ and their relationship with 3D chromatin structure.
 
 ---
 
+## 📰 News
+
+🎉 **Major Update!** We have launched a user-friendly online prediction platform [CLAMP+](https://clamp.sysomics.com)! Now you can easily use CLAMP for chromatin loop prediction through a web interface, without local installation and configuration.
+
+<div align="center">
+<p>Visit <a href="https://clamp.sysomics.com">https://clamp.sysomics.com</a> to start using it now!</p>
+</div>
+
+---
+
 ## 📥 Installation
 
 ### System Requirements
