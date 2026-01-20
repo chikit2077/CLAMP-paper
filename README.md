@@ -283,21 +283,13 @@ We welcome contributions to the CLAMP project! Here's how you can help:
 
 ---
 
-<!-- ## 📝 Citation
+## 📝 Citation
 
 If you use CLAMP in your research, please cite our paper:
 
-```bibtex
-@article{CLAMP2023,
-  title={CLAMP: Chromatin Loop prediction via Accessibility Model for Protein-mediated loops},
-  author={Chiki Ho},
-  journal={bioRxiv},
-  year={2025},
-  doi={10.1101/XXXX}
-}
-```
+> He, Z., Sun, Y., Li, H. et al. CLAMP: predicting specific protein-mediated chromatin loops in diverse species with a chromatin accessibility language model. Genome Biol (2026). https://doi.org/10.1186/s13059-026-03948-9
 
---- -->
+---
 
 ## 📜 License
 
