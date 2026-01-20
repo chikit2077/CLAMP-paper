@@ -67,6 +67,8 @@ and their relationship with 3D chromatin structure.
 
 ## 📰 News
 
+🎉 **Publication!** Our paper "CLAMP: predicting specific protein-mediated chromatin loops in diverse species with a chromatin accessibility language model" is published in **Genome Biology** (2026). [Read it here](https://doi.org/10.1186/s13059-026-03948-9).
+
 🎉 **Major Update!** We have launched a user-friendly online prediction platform [CLAMP+](https://clamp.sysomics.com)! Now you can easily use CLAMP for chromatin loop prediction through a web interface, without local installation and configuration.
 
 <div align="center">
